@@ -1,2 +1,0 @@
-# cleanminds.de
-Cleanminds Website
